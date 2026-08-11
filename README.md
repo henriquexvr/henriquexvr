@@ -53,13 +53,3 @@ Me chamo Henrique Xavier, tenho 20 anos e sou natural de Belo Horizonte, Minas G
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
 <br>
-
-## 📊 Estatísticas do GitHub:
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquexvr&show_icons=true&locale=pt&theme=default" alt="henriquexvr" width="48%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquexvr&locale=pt&hide_border=false&layout=compact" alt="henriquexvr" width="35%" />
-</p>
-
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquexvr&locale=pt" alt="henriquexvr" width="48%" />
-</p>
