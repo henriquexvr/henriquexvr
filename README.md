@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Henrique Xavier
 
-**`Desenvolvedor FullStack`**
+**`Estudante de Engenharia de Software | Desenvolvedor Full Stack`**
 
-Me chamo Henrique Xavier, tenho 20 anos e sou natural de Belo Horizonte, Minas Gerais. Atualmente, estou cursando Engenharia de Software na PUC Minas e busco novos desafios para aprimorar minhas habilidades na prática. Gosto muito de tecnologia e compartilho neste perfil os meus projetos :)
+Estudante de Engenharia de Software na PUC Minas, interessado em desenvolvimento de software e tecnologia. Busco oportunidades para aplicar meus conhecimentos na prática, desenvolver novas habilidades e contribuir na construção de soluções. Gosto muito de tecnologia e compartilho neste perfil os meus projetos :)
 
 ## 📬 Conecte-se comigo
 <p align="left">
